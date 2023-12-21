@@ -49,7 +49,7 @@ const Navbar = () => {
               to="features"
               spy={true}
               smooth={true}
-              className="hover:text-black transition duration-300 ease-in-out cursor-pointer"
+              className="hover:text-black  transition duration-300 ease-in-out cursor-pointer"
             >
               Features
             </Link>
